@@ -1,0 +1,17 @@
+# PyTorch (CPU version for Intel GPU)
+torch
+torchvision
+
+# Atari Environment
+gymnasium[atari]
+ale-py
+autorom[accept-rom-license]
+
+# Utilities
+numpy
+opencv-python
+matplotlib
+tqdm
+pygame
+imageio
+imageio-ffmpeg
